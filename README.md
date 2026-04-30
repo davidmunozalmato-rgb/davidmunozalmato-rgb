@@ -19,7 +19,7 @@ Actualmente estoy construyendo mi portafolio para demostrar mis habilidades y se
 * Lenguajes de programación: *(puedes añadir aquí Java, Python, etc.)*
 * Desarrollo de aplicaciones
 * Programación orientada a objetos
-* Bases de datos *(si aplica)*
+* Bases de datos 
 * Control de versiones con Git y GitHub
 
 *(Puedes ampliar esta sección a medida que aprendas nuevas tecnologías)*
@@ -32,10 +32,6 @@ Actualmente estoy construyendo mi portafolio para demostrar mis habilidades y se
 
 Mi primer proyecto público, donde aplico conceptos aprendidos durante mi formación en DAM.
 
-🔗 Puedes verlo aquí: *(añade el enlace a tu repositorio)*
-
-**Descripción:**
-*(Aquí puedes explicar brevemente qué hace el proyecto, qué tecnologías usaste y qué aprendiste desarrollándolo.)*
 
 ---
 
@@ -47,8 +43,8 @@ Busco oportunidades para realizar prácticas o incorporarme al mundo laboral com
 
 ## 📫 Contacto
 
-* Email: *(añade tu email)*
-* LinkedIn: *(añade tu perfil si tienes)*
+* Email: david.munoz.almato@gmail.com
+* LinkedIn: https://www.linkedin.com/in/david-mu%C3%B1oz-almat%C3%B3-878564277/
 
 ---
 
