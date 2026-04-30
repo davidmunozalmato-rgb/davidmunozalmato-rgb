@@ -1,4 +1,4 @@
-# Hola, soy David Muñoz
+# David Muñoz
 
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
@@ -47,8 +47,8 @@ Busco una oportunidad para realizar prácticas o iniciar mi carrera profesional 
 
 ## Contacto
 
-Email: *(añade tu email)*
-LinkedIn: *(añade tu perfil si tienes)*
+Email: david.munoz.almato@gmail.com
+LinkedIn: https://www.linkedin.com/in/david-mu%C3%B1oz-almat%C3%B3-878564277/
 
 ---
 
