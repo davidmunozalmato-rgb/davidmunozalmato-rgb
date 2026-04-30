@@ -32,10 +32,8 @@ Me considero una persona constante, con iniciativa y con motivación por seguir 
 
 Mi primer proyecto público, donde aplico conceptos aprendidos durante mi formación en DAM.
 
-Enlace al repositorio: *(añade aquí el link)*
+Enlace al repositorio: https://github.com/davidmunozalmato-rgb/Jocmetodes
 
-Descripción:
-*(Añade aquí una breve explicación del proyecto, qué hace, qué tecnologías utilizas y qué has aprendido desarrollándolo.)*
 
 ---
 
